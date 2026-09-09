@@ -1,4 +1,4 @@
-package laundry_room_app;
+package com.laundryapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
